@@ -1,0 +1,8 @@
+custom_name: "Loops: repeat statement"
+content:
+  - Theory
+  - Print a string exactly ten times
+  - Decrement in loops
+  - Sum of squares of even numbers up to a limit
+  - Repeat by value
+  - Maximum element divisible by 4

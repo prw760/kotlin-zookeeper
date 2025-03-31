@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Boolean variables" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Decoding a specific user command" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Go to the store" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Invitations and gifts" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Match operations and definitions" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Night watch and motion magic" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Program a Boolean function" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/Are the numbers different" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/Check the sum" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/Compare two numbers with symbols" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/Comparing two integers and determining their relation" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/When the result is true" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Find the output" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Find the output (1)" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Interval" />
+            <option value="$PROJECT_DIR$/Topics/If expression/The max of two numbers without else-branch" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Loops  repeat statement/Maximum element divisible by 4" />
+            <option value="$PROJECT_DIR$/Topics/Loops  repeat statement/Print a string exactly ten times" />
+            <option value="$PROJECT_DIR$/Topics/Loops  repeat statement/Repeat by value" />
+            <option value="$PROJECT_DIR$/Topics/Loops  repeat statement/Sum of squares of even numbers up to a limit" />
+            <option value="$PROJECT_DIR$/Topics/Loops  repeat statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string" />
+            <option value="$PROJECT_DIR$/Topics/String basics/I'm learning Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Thrice-echoed positivity booster" />
+            <option value="$PROJECT_DIR$/Topics/String templates/How to write string templates" />
+            <option value="$PROJECT_DIR$/Topics/String templates/String and its Int" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/What are string templates" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Balance checker" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Bank interest calculation" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Choose the correct ones" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The sum of elements" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
