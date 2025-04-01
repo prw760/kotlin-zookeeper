@@ -8,23 +8,5 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://hyperskill.org/projects/196/stages/978/implement#comment
-status: Failed
-feedback:
-  message: |-
-    Wrong answer in test #1
-
-    The lion wasn&#39;t printed but was expected
-
-    Please find below the output of your program during this failed test.
-    Note that the &#39;&gt;&#39; character indicates the beginning of the input line.
-
-    ---
-
-    Please enter the number of the habitat you would like to view:
-    &gt; 1
-    Habitat 1 doesn&#39;t exist.
-    Please enter the number of the habitat you would like to view:
-    &gt; exit
-    See you later!
-  time: "Mon, 31 Mar 2025 23:36:25 UTC"
+status: Solved
 record: -1

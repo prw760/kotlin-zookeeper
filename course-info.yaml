@@ -8,8 +8,5 @@ programming_language: Kotlin
 content:
   - Zookeeper (Kotlin)
   - Topics
-additional_files:
-  - name: build.gradle
-  - name: settings.gradle
 mode: Study
 yaml_version: 2
